@@ -23,3 +23,7 @@ Welcome to the First-Person Shooter with NPC Pathfinding project. This game demo
 
 
 ![ingame](https://github.com/franksinalpha/bfs-fps-game/assets/121463598/c41d9e48-d561-436f-8365-d6ee4f3fa4a5)
+![image](https://github.com/franksinalpha/bfs-fps-game/assets/121463598/dba2bf76-ceaf-49dc-837f-fd0a5f001179)
+
+
+
