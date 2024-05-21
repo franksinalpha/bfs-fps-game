@@ -20,3 +20,5 @@ Welcome to the First-Person Shooter with NPC Pathfinding project. This game demo
 - WASD to move
 - Swing your mouse to aim
 - Left Mouse Button to shoot
+
+
