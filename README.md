@@ -22,3 +22,4 @@ Welcome to the First-Person Shooter with NPC Pathfinding project. This game demo
 - Left Mouse Button to shoot
 
 
+![ingame](https://github.com/franksinalpha/bfs-fps-game/assets/121463598/c41d9e48-d561-436f-8365-d6ee4f3fa4a5)
